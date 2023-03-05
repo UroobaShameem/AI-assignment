@@ -1,1 +1,2 @@
-
+karachi,34500000,xyz
+lahore,12800000,abc
